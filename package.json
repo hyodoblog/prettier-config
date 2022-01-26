@@ -1,0 +1,9 @@
+{
+  "name": "@hyodoblog/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "author": "hyodoblog",
+  "publishConfig": {
+    "access": "public"
+  }
+}
